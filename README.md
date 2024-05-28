@@ -41,11 +41,13 @@ choco install ffmpeg
 python baixador-audio-video.py
 ```
 ## Utilização
+<table align="center">
+	<tr>
+		<th> <img width="400" src = "gif/ex1.gif"></th>
+		<th> <img width="400" src = "gif/ex2.gif"></th>
+	</tr>
+</table>
 
-<p align="center">
-  <img src = "gif/ex1.gif">
-  <img src = "gif/ex2.gif">
-</p>
 
 - Insira a URL do vídeo do YouTube no campo de entrada.
 - Escolha a qualidade do vídeo a partir do menu suspenso.
